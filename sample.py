@@ -1,4 +1,8 @@
 
+
+def sum(a,b):
+    return a+b
+
 a=5
 b=3
-print(a+b)
+print(sum(a,b))

@@ -12,3 +12,5 @@ msg2='Git Training'
 print(msg1)
 print(msg2)
 print(sum(a,b))
+
+print('1:',a+b)

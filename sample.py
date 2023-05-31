@@ -6,6 +6,9 @@ def sum(a,b):
 a=5
 b=3
 
-msg='This is master'
-print(msg)
+
+msg1='This is master'
+msg2='Git Training'
+print(msg1)
+print(msg2)
 print(sum(a,b))

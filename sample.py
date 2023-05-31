@@ -5,4 +5,7 @@ def sum(a,b):
 
 a=5
 b=3
+
+msg='Git Training'
+print(msg)
 print(sum(a,b))
